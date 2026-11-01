@@ -1,0 +1,1613 @@
+{
+  "schemaVersion": "1.0",
+  "skill": "shekel",
+  "generated_at": "2026-11-01",
+  "note": "כל ציטוט הושווה אוטומטית לטקסט שהורד מהמקור ב-1.11.2026, או לעותק ב-Wayback Machine ב-gov.il.",
+  "claims": [
+    {
+      "claim_id": "ceiling-2026",
+      "claim": "תקרת עוסק פטור 122,833 ₪ לשנת 2026, 120,000 ₪ בשנת 2025",
+      "source_url": "https://www.kolzchut.org.il/he/עוסק_פטור",
+      "quote": "עד 122,833 ₪ (נכון לשנת 2026)",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "2026",
+      "values": [
+        "122833"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/figures.md",
+        "references/income.md"
+      ]
+    },
+    {
+      "claim_id": "ceiling-2024-25",
+      "claim": "תקרה 120,000 ₪ ב-2024 וב-2025",
+      "source_url": "https://he.wikisource.org/wiki/חוק_מס_ערך_מוסף",
+      "quote": "בשנים 2024 ו־2025, 120,000 ש״ח; בשנת 2026, 122,833 ש״ח",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "2024-2026",
+      "values": [
+        "120000",
+        "122833"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/figures.md",
+        "references/income.md"
+      ]
+    },
+    {
+      "claim_id": "patur-no-input-vat",
+      "claim": "עוסק פטור לא מקזז מע\"מ תשומות, וההוצאה נרשמת כולל מע\"מ",
+      "source_url": "https://www.kolzchut.org.il/he/עוסק_פטור",
+      "quote": "סכום המע\"מ ששילם יתווסף לסכום החשבונית שהוא מקבל",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "crossing-projection",
+      "claim": "ההודעה לפי הצפי, לפני התשלום שחוצה, ומע\"מ תשומות לא חוזר",
+      "source_url": "https://www.kolzchut.org.il/he/עוסק_פטור",
+      "quote": "ברגע שצופים שההכנסות עד סוף השנה יעברו אות התקרה השנתית של העוסק הפטור, יש להודיע על כך לרשות המסים",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "crossing-before-payment",
+      "claim": "כדאי לשנות סיווג לפני התשלום שחוצה",
+      "source_url": "https://www.kolzchut.org.il/he/עוסק_פטור",
+      "quote": "כדאי לעשות פעולה זו לפני קבלת התשלום שחוצה את התקרה השנתית",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "input-vat-lost",
+      "claim": "מע\"מ מתקופת הפטור לא מוחזר",
+      "source_url": "https://www.kolzchut.org.il/he/עוסק_פטור",
+      "quote": "אי אפשר לדרוש רטרואקטיבית קיזוז מע\"מ על הוצאות שהיו לעסק מתחילת השנה",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "declaration-31-1",
+      "claim": "הצהרת עוסק פטור עד 31.1",
+      "source_url": "https://www.kolzchut.org.il/he/עוסק_פטור",
+      "quote": "עוסק פטור חייב להצהיר למע\"מ עד ל-31 בינואר בכל שנה",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "31.1"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/calendar.md"
+      ]
+    },
+    {
+      "claim_id": "declaration-2025",
+      "claim": "הצהרה על 2025 נדחתה ל-30.4.2026, חד-פעמי",
+      "source_url": "https://www.kolzchut.org.il/he/עוסק_פטור",
+      "quote": "את הדיווח על מחזור העסקאות של שנת 2025 ניתן להגיש עד 30.04.2026",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "2025",
+      "values": [
+        "30.4.2026",
+        "30.4"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/calendar.md",
+        "references/figures.md"
+      ]
+    },
+    {
+      "claim_id": "reg13",
+      "claim": "רשימת העיסוקים שחייבים עוסק מורשה, כולל 5 תלמידים ו-30 ימי הדרכה",
+      "source_url": "https://www.nevo.co.il/law_html/law01/271_004.htm",
+      "quote": "לקבוצות שבכל אחת מהן לא פחות מחמישה תלמידים, להוציא הדרכה מקרית של לא יותר משלושים ימי הדרכה",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "5",
+        "30"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/calendar.md",
+        "references/expenses.md",
+        "references/figures.md",
+        "references/income.md",
+        "references/opening.md"
+      ]
+    },
+    {
+      "claim_id": "reg13-list",
+      "claim": "תקנה 13: בעלי מקצוע חופשי",
+      "source_url": "https://www.nevo.co.il/law_html/law01/271_004.htm",
+      "quote": "אגרונום, אדריכל, הנדסאי, חוקר פרטי, טוען רבני, טכנאי, טכנאי שיניים, יועץ לארגון, יועץ לניהול, יועץ מדעי, יועץ מס, כלכלן, מהנדס, מודד, מנהל חשבונות, מתורגמן, סוכן ביטוח, עורך דין, רואה חשבון או שמאי",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "13"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/opening.md",
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "salaried-exception",
+      "claim": "חריג לשכירים: המע\"מ על מקבל השירות",
+      "source_url": "https://www.kolzchut.org.il/he/עוסק_פטור",
+      "quote": "אינם חייבים להירשם כעוסק מורשה, והחבות לשלם את המע\"מ, החל מהשקל הראשון, חלה על מקבל השירות",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "abroad",
+      "claim": "לקוחות בחו\"ל: ייתכן שכדאי עוסק מורשה",
+      "source_url": "https://www.kolzchut.org.il/he/עוסק_פטור",
+      "quote": "יהיה כדאי להירשם כעוסק מורשה גם אם מחזור ההכנסות נמוך מהתקרה השנתית",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "multi-field",
+      "claim": "תחום אחד מספיק לחיוב בעוסק מורשה",
+      "source_url": "https://www.kolzchut.org.il/he/עוסק_פטור",
+      "quote": "מספיק שאחד מהתחומים מחייב רישום כעוסק מורשה",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "work-grant",
+      "claim": "מענק עבודה",
+      "source_url": "https://www.kolzchut.org.il/he/עוסק_פטור",
+      "quote": "עוסק פטור עשוי להיות זכאי למענק עבודה",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "patur-online",
+      "claim": "פתיחת עוסק פטור מקוונת פותחת מע\"מ ומס הכנסה, ללא עלות",
+      "source_url": "https://www.gov.il/he/service/request-open-exempt-dealer-via-internet",
+      "quote": "שירות זה מאפשר להגיש בקשה לפתיחת תיק עוסק פטור במערכי המס - מע\"מ ומס הכנסה באופן מקוון",
+      "verified_at": "2026-11-01",
+      "verified_via": "wayback 2025-11-13",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "patur-bl",
+      "claim": "ההודעה לביטוח לאומי אוטומטית",
+      "source_url": "https://www.gov.il/he/service/request-open-exempt-dealer-via-internet",
+      "quote": "תועבר הודעה אוטומטית ממערכות רשות המסים למערכות הביטוח הלאומי",
+      "verified_at": "2026-11-01",
+      "verified_via": "wayback 2025-11-13",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "form-4440",
+      "claim": "טופס 4440 לזוג נשוי שחי בנפרד",
+      "source_url": "https://www.gov.il/he/service/request-open-exempt-dealer-via-internet",
+      "quote": "זוגות נשואים החיים בנפרד ומעוניינים להגיש בקשה בנפרד – יצרפו טופס 4440 חתום על ידי עורך דין",
+      "verified_at": "2026-11-01",
+      "verified_via": "wayback 2025-11-13",
+      "effective_year": "כללי",
+      "values": [
+        "4440"
+      ],
+      "appears_in": [
+        "references/opening.md"
+      ]
+    },
+    {
+      "claim_id": "deductions-file",
+      "claim": "תיק ניכויים למי שמעסיק או שוכר נכס",
+      "source_url": "https://www.gov.il/he/service/request-open-exempt-dealer-via-internet",
+      "quote": "אם העוסקים מעסיקים עובדים או שוכרים נכס לצורך פעילותם העסקית, יש לפתוח גם תיק ניכויים",
+      "verified_at": "2026-11-01",
+      "verified_via": "wayback 2025-11-13",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "form-821",
+      "claim": "טופס 821 מודפס במשרד האזורי או דרך מייצג",
+      "source_url": "https://www.gov.il/he/service/vat-821",
+      "quote": "יש להדפיס את טופס בקשה לפתיחת תיק עוסק מורשה (טופס 821)",
+      "verified_at": "2026-11-01",
+      "verified_via": "wayback 2026-01-14",
+      "effective_year": "כללי",
+      "values": [
+        "821"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/opening.md",
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "form-821-docs",
+      "claim": "מסמכים לטופס 821",
+      "source_url": "https://www.gov.il/he/service/vat-821",
+      "quote": "צילום צ'ק מבוטל מחשבון עובר ושב של העסק",
+      "verified_at": "2026-11-01",
+      "verified_via": "wayback 2026-01-14",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "form-5329",
+      "claim": "טופס 5329: למי שנדרש, ולמי שמבקש לפתוח תיק",
+      "source_url": "https://www.gov.il/he/service/itc5329",
+      "quote": "רק מי שנדרשו לכך - צריכים להגיש את הטופס",
+      "verified_at": "2026-11-01",
+      "verified_via": "wayback 2025-02-08",
+      "effective_year": "כללי",
+      "values": [
+        "5329"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/opening.md",
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "register-by-start",
+      "claim": "רישום לא יאוחר מתחילת הפעילות",
+      "source_url": "https://www.kolzchut.org.il/he/פתיחת_תיק_עוסק_במס_ערך_מוסף_(מע\"מ)",
+      "quote": "הרישום חייב להתבצע לא יאוחר מהיום שבו החלה הפעילות העסקית",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "bl-register-now",
+      "claim": "רישום בביטוח לאומי מיד עם תחילת העבודה",
+      "source_url": "https://www.btl.gov.il/Insurance/National%20Insurance/type_list/Self_Employed/Pages/howtoregister.aspx",
+      "quote": "עליך להודיע לנו על כך מיד עם תחילת העבודה",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "bl-low-income",
+      "claim": "חובת הרישום גם בהכנסה נמוכה ולשכיר",
+      "source_url": "https://www.kolzchut.org.il/he/דמי_ביטוח_לאומי_לעצמאי",
+      "quote": "חובת הרישום והדיווח למוסד לביטוח לאומי חלה גם על מי שהכנסתו מהעסק נמוכה",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "bl-definition",
+      "claim": "הגדרת עצמאי 2026",
+      "source_url": "https://www.kolzchut.org.il/he/דמי_ביטוח_לאומי_לעצמאי",
+      "quote": "מי שהכנסתו החודשית הממוצעת ממשלח ידו עולה על 6,885 ₪ (נכון לשנת 2026)",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "2026",
+      "values": [
+        "6885",
+        "20"
+      ],
+      "appears_in": [
+        "references/figures.md",
+        "references/opening.md",
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "bl-definition-low",
+      "claim": "הגדרת עצמאי, 12 שעות ו-2,065 ₪",
+      "source_url": "https://www.kolzchut.org.il/he/דמי_ביטוח_לאומי_לעצמאי",
+      "quote": "מי שעוסק במשלח ידו לפחות 12 שעות בשבוע בממוצע, והכנסתו החודשית עולה על 2,065 ₪ (נכון לשנת 2026)",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "2026",
+      "values": [
+        "2065",
+        "12"
+      ],
+      "appears_in": [
+        "references/calendar.md",
+        "references/expenses.md",
+        "references/figures.md",
+        "references/opening.md"
+      ]
+    },
+    {
+      "claim_id": "bl-22",
+      "claim": "הוראת קבע בבנק ב-22 בחודש עבור החודש הקודם",
+      "source_url": "https://www.kolzchut.org.il/he/דמי_ביטוח_לאומי_לעצמאי",
+      "quote": "התשלום יתבצע ב-22 בחודש עבור החודש הקודם (התאריך עשוי להשתנות בהתאם לשבתות וחגים)",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "22"
+      ],
+      "appears_in": [
+        "references/calendar.md"
+      ]
+    },
+    {
+      "claim_id": "bl-10pct",
+      "claim": "תיקון מקדמות פעם ברבעון, 10%",
+      "source_url": "https://www.kolzchut.org.il/he/דמי_ביטוח_לאומי_לעצמאי",
+      "quote": "מי שהכנסתם עלתה או ירדה ב-10% לפחות יכולים להגיש בקשה לתיקון מקדמות",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "10%"
+      ],
+      "appears_in": [
+        "references/income.md"
+      ]
+    },
+    {
+      "claim_id": "bl-60-days",
+      "claim": "60 ימים לתשלום רטרואקטיבי, ופגיעה בדמי לידה",
+      "source_url": "https://www.kolzchut.org.il/he/דמי_ביטוח_לאומי_לעצמאי",
+      "quote": "אמנם היא שילמה את החיוב הרטרואקטיבי בתוך 60 ימים מהמועד שחויבה",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "60"
+      ],
+      "appears_in": [
+        "references/calendar.md",
+        "references/opening.md"
+      ]
+    },
+    {
+      "claim_id": "bl-52",
+      "claim": "52% מדמי הביטוח הלאומי כהוצאה מוכרת",
+      "source_url": "https://www.kolzchut.org.il/he/דמי_ביטוח_לאומי_לעצמאי",
+      "quote": "52% מדמי ביטוח לאומי שעצמאים שילמו בשנת מס יכולים להיחשב כ הוצאה מוכרת",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "52%"
+      ],
+      "appears_in": [
+        "references/expenses.md"
+      ]
+    },
+    {
+      "claim_id": "bl-late-risk",
+      "claim": "עצמאי שלא נרשם במועד עלול לאבד זכאות בפגיעה בעבודה",
+      "source_url": "https://www.kolzchut.org.il/he/זכאות_לקיצבאות_הביטוח_הלאומי_כעצמאי",
+      "quote": "אם עובד עצמאי לא נרשם במועד או לא שילם את דמי הביטוח, זכאותו לקבלת קצבה בעת פגיעה בעבודה עשויה להישלל",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "bl-mixed",
+      "claim": "עיסוקים מעורבים",
+      "source_url": "https://www.kolzchut.org.il/he/דמי_ביטוח_לאומי_לעצמאי_עם_מקורות_הכנסה_נוספים",
+      "quote": "מבוטחים אלה מכונים \"בעלי עיסוקים מעורבים\"",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "bl-1502",
+      "claim": "חוזר 1502 מ-7.1.2026",
+      "source_url": "https://www.btl.gov.il/Insurance/HozrimBituah/Hozrim/_%d7%9e%d7%a7%d7%93%d7%9e%d7%95%d7%aa_%d7%95%d7%93%d7%9e%d7%99_%d7%91%d7%99%d7%98%d7%95%d7%97_%d7%9c%d7%a2%d7%a6%d7%9e%d7%90%d7%99%d7%9d_2026__.pdf",
+      "quote": "חוזר  גלש מס'  :  1502",
+      "verified_at": "2026-11-01",
+      "verified_via": "pdf direct",
+      "effective_year": "2026",
+      "values": [
+        "1502"
+      ],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "bl-rates",
+      "claim": "שיעור 7.7% עד 7,703 ₪, 18% מעל, עד 51,910 ₪",
+      "source_url": "https://www.kolzchut.org.il/he/דמי_ביטוח_לאומי_לעצמאי",
+      "quote": "מחלק ההכנסה החייבת במס שמעל 7,703 ₪ ועד 51,910 ₪ ( ההכנסה המירבית לחודש) - 12.83% דמי ביטוח לאומי, 5.17% דמי ביטוח בריאות וסה\"כ 18%",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "2026",
+      "values": [
+        "7703",
+        "51910",
+        "18%"
+      ],
+      "appears_in": [
+        "references/figures.md"
+      ]
+    },
+    {
+      "claim_id": "bl-rate-low",
+      "claim": "שיעור מופחת 7.7%",
+      "source_url": "https://www.kolzchut.org.il/he/דמי_ביטוח_לאומי_לעצמאי",
+      "quote": "4.47% דמי ביטוח לאומי, 3.23% דמי ביטוח בריאות וסה\"כ 7.7%",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "2026",
+      "values": [
+        "7.7%",
+        "7.7"
+      ],
+      "appears_in": [
+        "references/figures.md"
+      ]
+    },
+    {
+      "claim_id": "bl-min",
+      "claim": "מקדמה מינימלית 265 ₪, הכנסה מינימלית 3,442 ₪",
+      "source_url": "https://www.btl.gov.il/Insurance/HozrimBituah/Hozrim/_%d7%9e%d7%a7%d7%93%d7%9e%d7%95%d7%aa_%d7%95%d7%93%d7%9e%d7%99_%d7%91%d7%99%d7%98%d7%95%d7%97_%d7%9c%d7%a2%d7%a6%d7%9e%d7%90%d7%99%d7%9d_2026__.pdf",
+      "quote": "סכום הכנסה מינימלית  חודשית לעובד  עצמאי  3,442  ₪",
+      "verified_at": "2026-11-01",
+      "verified_via": "pdf direct",
+      "effective_year": "2026",
+      "values": [
+        "3442"
+      ],
+      "appears_in": [
+        "references/figures.md"
+      ]
+    },
+    {
+      "claim_id": "bl-min-advance",
+      "claim": "מקדמה מינימלית 265 ₪",
+      "source_url": "https://www.btl.gov.il/Insurance/HozrimBituah/Hozrim/_%d7%9e%d7%a7%d7%93%d7%9e%d7%95%d7%aa_%d7%95%d7%93%d7%9e%d7%99_%d7%91%d7%99%d7%98%d7%95%d7%97_%d7%9c%d7%a2%d7%a6%d7%9e%d7%90%d7%99%d7%9d_2026__.pdf",
+      "quote": "מקדמהחודשית מינימלית לעובד עצמאי  265 ₪",
+      "verified_at": "2026-11-01",
+      "verified_via": "pdf direct",
+      "effective_year": "2026",
+      "values": [
+        "265"
+      ],
+      "appears_in": [
+        "references/figures.md",
+        "references/opening.md"
+      ]
+    },
+    {
+      "claim_id": "bl-max-advance",
+      "claim": "מקדמה מקסימלית 8,550 ₪",
+      "source_url": "https://www.btl.gov.il/Insurance/HozrimBituah/Hozrim/_%d7%9e%d7%a7%d7%93%d7%9e%d7%95%d7%aa_%d7%95%d7%93%d7%9e%d7%99_%d7%91%d7%99%d7%98%d7%95%d7%97_%d7%9c%d7%a2%d7%a6%d7%9e%d7%90%d7%99%d7%9d_2026__.pdf",
+      "quote": "מקדמה חודשית מקסימלית לעובד עצמאי 8,550  ₪",
+      "verified_at": "2026-11-01",
+      "verified_via": "pdf direct",
+      "effective_year": "2026",
+      "values": [
+        "8550"
+      ],
+      "appears_in": [
+        "references/figures.md"
+      ]
+    },
+    {
+      "claim_id": "avg-wage",
+      "claim": "שכר ממוצע 13,769 ₪",
+      "source_url": "https://www.btl.gov.il/Insurance/HozrimBituah/Hozrim/_%d7%9e%d7%a7%d7%93%d7%9e%d7%95%d7%aa_%d7%95%d7%93%d7%9e%d7%99_%d7%91%d7%99%d7%98%d7%95%d7%97_%d7%9c%d7%a2%d7%a6%d7%9e%d7%90%d7%99%d7%9d_2026__.pdf",
+      "quote": "הוא 13,769  ₪",
+      "verified_at": "2026-11-01",
+      "verified_via": "pdf direct",
+      "effective_year": "2026",
+      "values": [
+        "13769"
+      ],
+      "appears_in": [
+        "references/figures.md"
+      ]
+    },
+    {
+      "claim_id": "zair-30",
+      "claim": "עסק זעיר 30% בלי קבלות",
+      "source_url": "https://www.kolzchut.org.il/he/עסק_זעיר",
+      "quote": "בעל עסק זעיר רשאי לקזז באופן אוטומטי סכום של 30% מהכנסותיו, בלי להציג קבלות או חשבוניות בפועל",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "30%",
+        "30"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/calendar.md",
+        "references/expenses.md",
+        "references/figures.md",
+        "references/opening.md"
+      ]
+    },
+    {
+      "claim_id": "zair-income-tax",
+      "claim": "עסק זעיר הוא מעמד במס הכנסה",
+      "source_url": "https://www.kolzchut.org.il/he/עסק_זעיר",
+      "quote": "עסק זעיר הוא לא בהכרח עוסק פטור, וגם עוסק מורשה יכול להיחשב כבעל עסק זעיר",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "zair-25-12",
+      "claim": "תיאום מס עד 25.12",
+      "source_url": "https://www.kolzchut.org.il/he/עסק_זעיר",
+      "quote": "יש לבצע את התיאום עד 25.12 באותה שנה",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "25.12"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/calendar.md",
+        "references/expenses.md",
+        "references/opening.md"
+      ]
+    },
+    {
+      "claim_id": "zair-report",
+      "claim": "דוח מקוצר על 2025 עד 31.8.2026",
+      "source_url": "https://www.kolzchut.org.il/he/עסק_זעיר",
+      "quote": "את הדיווח של שנת המס 2025 ניתן להגיש עד 31.08.2026",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "2025",
+      "values": [
+        "31.8.2026"
+      ],
+      "appears_in": [
+        "references/calendar.md",
+        "references/figures.md",
+        "references/opening.md"
+      ]
+    },
+    {
+      "claim_id": "zair-31-3",
+      "claim": "דוח מקוצר עד 31.3",
+      "source_url": "https://www.kolzchut.org.il/he/עסק_זעיר",
+      "quote": "בשנים הבאות ניתן יהיה להגיש בכל שנה את הדיווח עד ה-31.03 של כל שנה עוקבת",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "31.3"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/calendar.md",
+        "references/opening.md"
+      ]
+    },
+    {
+      "claim_id": "zair-new",
+      "claim": "עוסק פטור חדש נרשם כעסק זעיר אוטומטית",
+      "source_url": "https://www.kolzchut.org.il/he/עסק_זעיר",
+      "quote": "עסק חדש שיפתח במע\"מ תיק כעוסק פטור, יירשם כבעל עסק זעיר, אלא אם יציין בטופס כי אינו מעוניין בכך",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "zair-25pct",
+      "claim": "מי לא יכול, 25%",
+      "source_url": "https://www.kolzchut.org.il/he/עסק_זעיר",
+      "quote": "יותר מ־25% מהכנסות העסק התקבלו מקרוב של העוסק או ממי שהיה מעסיקו במהלך שלוש שנות המס הקודמות",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "25%"
+      ],
+      "appears_in": [
+        "references/expenses.md",
+        "references/opening.md"
+      ]
+    },
+    {
+      "claim_id": "zair-employer",
+      "claim": "הכנסה מהמעסיק פוסלת",
+      "source_url": "https://www.kolzchut.org.il/he/עסק_זעיר",
+      "quote": "חלק מהכנסת העסק התקבלה מאדם שהוא מעסיקו של העוסק בשנת המס",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "zair-70",
+      "claim": "שכיר ועסק זעיר: 70% מהמחזור",
+      "source_url": "https://www.kolzchut.org.il/he/עסק_זעיר",
+      "quote": "מס ההכנסה יחושב על הכנסתו כשכיר ועל 70% ממחזור עסקאותיו בעסק",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "70%"
+      ],
+      "appears_in": [
+        "references/income.md",
+        "references/opening.md"
+      ]
+    },
+    {
+      "claim_id": "zair-transfer",
+      "claim": "עסק קיים נרשם בבקשה מקוונת",
+      "source_url": "https://www.gov.il/he/service/request-transfer-to-micro-business-owner",
+      "quote": "להגיש בקשה לשינוי סוג התיק במס הכנסה, ללא הגעה פיזית למשרדי מס הכנסה",
+      "verified_at": "2026-11-01",
+      "verified_via": "wayback 2026-01-14",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "mkdamot-15",
+      "claim": "מקדמות עד 15 לחודש",
+      "source_url": "https://www.kolzchut.org.il/he/תשלום_מקדמות_של_עסק_עצמאי_למס_הכנסה",
+      "quote": "לפי החוק יש לשלם את המקדמות ולדווח על מחזור העסקאות בכל 15 בחודש",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "15"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/calendar.md"
+      ]
+    },
+    {
+      "claim_id": "mkdamot-19",
+      "claim": "מקדמות עד 19 בתשלום מקוון",
+      "source_url": "https://www.kolzchut.org.il/he/תשלום_מקדמות_של_עסק_עצמאי_למס_הכנסה",
+      "quote": "ניתן לשלם את המקדמות עד ה-19 לחודש בשעה 18:30",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "19"
+      ],
+      "appears_in": [
+        "references/calendar.md",
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "mkdamot-new",
+      "claim": "עסק חדש: שיעור לפי מחזור צפוי, פנקס תוך חודש",
+      "source_url": "https://www.kolzchut.org.il/he/תשלום_מקדמות_של_עסק_עצמאי_למס_הכנסה",
+      "quote": "בעל עסק שלא קיבל פנקס מקדמות תוך חודש מיום הודעתו לפקיד השומה",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "saturday",
+      "claim": "שבת עוברת ליום שאחרי",
+      "source_url": "https://www.kolzchut.org.il/he/תשלום_מקדמות_של_עסק_עצמאי_למס_הכנסה",
+      "quote": "לאחר יום המנוחה השבועי",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "report-2025",
+      "claim": "דוח שנתי על 2025: 29.5.2026 ו-30.6.2026",
+      "source_url": "https://www.gov.il/he/service/reporting-and-payment-2025-annual-tax-report-for-individuals",
+      "quote": "יחידים החייבים בהגשת דוח שאינו מקוון יגישו עד 29.5.2026. יחידים החייבים בהגשת דוח מקוון יגישו עד 30.6.2026",
+      "verified_at": "2026-11-01",
+      "verified_via": "wayback 2026-05-17",
+      "effective_year": "2025",
+      "values": [
+        "29.5.2026",
+        "30.6.2026",
+        "1301"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/calendar.md",
+        "references/figures.md"
+      ]
+    },
+    {
+      "claim_id": "receipt-fields",
+      "claim": "שדות חובה בקבלה, מספר עוקב",
+      "source_url": "https://www.nevo.co.il/law_html/law01/255_179.htm",
+      "quote": "ייערך לכל תקבול בנפרד, ויכלול – (1) מספר עוקב",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "receipt-immediate",
+      "claim": "קבלה מיד עם קבלת התמורה",
+      "source_url": "https://www.kolzchut.org.il/he/עוסק_פטור",
+      "quote": "חייב להפיק קבלה מייד עם קבלת התמורה",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "patur-no-tax-invoice",
+      "claim": "עוסק פטור לא מוציא חשבונית מס",
+      "source_url": "https://www.kolzchut.org.il/he/הוצאת_חשבונית_מס,_חשבונית_עסקה_וקבלה",
+      "quote": "עוסק פטור אינו רשאי להוציא חשבוניות מס אלא רק קבלות בגין עסקאותיו",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "deal-invoice-fields",
+      "claim": "שדות בחשבונית עסקה",
+      "source_url": "https://www.kolzchut.org.il/he/הוצאת_חשבונית_מס,_חשבונית_עסקה_וקבלה",
+      "quote": "חשבונית עסקה כוללת את הפרטים הבאים",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "allocation-5000",
+      "claim": "מספר הקצאה מעל 5,000 ₪, לחשבונית מס בלבד",
+      "source_url": "https://he.wikisource.org/wiki/חוק_מס_ערך_מוסף",
+      "quote": "עולה על 5,000 שקלים חדשים",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "2026",
+      "values": [
+        "5000"
+      ],
+      "appears_in": [
+        "references/income.md"
+      ]
+    },
+    {
+      "claim_id": "withholding",
+      "claim": "אישור ניכוי מלקוח ואישור שנתי",
+      "source_url": "https://www.kolzchut.org.il/he/ניכוי_מס_הכנסה_במקור_על-ידי_לקוח_של_עסק_עצמאי",
+      "quote": "חייב לתת לבעל העסק אישור על הניכוי ואישור שנתי",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "withholding-credit",
+      "claim": "ניכוי מופחת מהמס בסוף השנה, והקטנה בפקיד השומה",
+      "source_url": "https://www.kolzchut.org.il/he/ניכוי_מס_הכנסה_במקור_על-ידי_לקוח_של_עסק_עצמאי",
+      "quote": "יובאו בחשבון הסכומים שנוכו במקור",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "books-required",
+      "claim": "עוסק פטור לא פטור מפנקסים, 7 שנים",
+      "source_url": "https://www.kolzchut.org.il/he/ניהול_ספרי_החשבונות_של_העסק",
+      "quote": "עוסק פטור אינו פטור מחובת ניהול פנקסים למס הכנסה, אלא אם קיבל פטור או הקלה בכתב מפקיד השומה",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "books-7",
+      "claim": "שמירה 7 שנים",
+      "source_url": "https://www.kolzchut.org.il/he/ניהול_ספרי_החשבונות_של_העסק",
+      "quote": "יש לשמור במשך 7 שנים",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "7"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/expenses.md",
+        "references/figures.md",
+        "references/income.md",
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "books-zair",
+      "claim": "עוסק זעיר: שוברי קבלה ותיק תיעוד חוץ",
+      "source_url": "https://www.nevo.co.il/law_html/law01/255_179.htm",
+      "quote": "שוברי קבלה או ספר פדיון יומי",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "vat-18",
+      "claim": "מע\"מ 18%",
+      "source_url": "https://www.kolzchut.org.il/he/עוסק_פטור",
+      "quote": "200 ₪ + מע\"מ בשיעור 18%",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "2026",
+      "values": [
+        "18%"
+      ],
+      "appears_in": [
+        "references/figures.md"
+      ]
+    },
+    {
+      "claim_id": "deductible-general",
+      "claim": "הוצאה פרטית לא מוכרת",
+      "source_url": "https://www.kolzchut.org.il/he/הוצאה_מוכרת_לצורך_חישוב_מס_הכנסה_(הוצאה_מותרת_בניכוי)",
+      "quote": "הוצאות שהוצאו לצרכים פרטיים אינן נחשבות הוצאות מוכרות",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "mixed",
+      "claim": "הוצאה מעורבת: צריך הפרדה",
+      "source_url": "https://www.kolzchut.org.il/he/הוצאה_מוכרת_לצורך_חישוב_מס_הכנסה_(הוצאה_מותרת_בניכוי)",
+      "quote": "אם לא ניתן לבצע הפרדה שכזו, ההוצאה אינה מוכרת",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "refreshments-80",
+      "claim": "כיבוד קל 80%",
+      "source_url": "https://www.kolzchut.org.il/he/הוצאה_מוכרת_לצורך_חישוב_מס_הכנסה_(הוצאה_מותרת_בניכוי)",
+      "quote": "יוכרו לניכוי כהוצאה רק 80% מסכום ההוצאות",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "80%",
+        "80"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/expenses.md"
+      ]
+    },
+    {
+      "claim_id": "cafe",
+      "claim": "בית קפה אינו שירותי משרד",
+      "source_url": "https://www.kolzchut.org.il/he/הוצאה_מוכרת_לצורך_חישוב_מס_הכנסה_(הוצאה_מותרת_בניכוי)",
+      "quote": "תשלומים עבור שהות במסעדה או בבית קפה אינם נחשבים ל\"שירותי משרד\"",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "hosting",
+      "claim": "אירוח בארץ לא מוכר",
+      "source_url": "https://www.nevo.co.il/law_html/law01/255_418.htm",
+      "quote": "לא יותר ניכוי הוצאה בשל אירוח בארץ, למעט ניכוי הוצאה סבירה לאירוח אדם מחוץ-לארץ",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "clothing",
+      "claim": "ביגוד 80%, 100% אם לא שמיש מחוץ לעבודה",
+      "source_url": "https://www.nevo.co.il/law_html/law01/255_418.htm",
+      "quote": "80% מההוצאות שהוציא נישום לרכישת ביגוד בעבורו או בעבור עובדו",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "100",
+        "100%"
+      ],
+      "appears_in": [
+        "references/expenses.md"
+      ]
+    },
+    {
+      "claim_id": "landline",
+      "claim": "טלפון קווי בבית",
+      "source_url": "https://www.nevo.co.il/law_html/law01/255_418.htm",
+      "quote": "לא יותרו בניכוי הוצאות בשל החזקת טלפון שאינו נייד במקום מגוריו",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "phone-rule",
+      "claim": "טלפון נייד: הנמוך מבין סכום למחצית",
+      "source_url": "https://www.nevo.co.il/law_html/law01/255_418.htm",
+      "quote": "בסכום של 960 שקלים חדשים או מחצית מההוצאות, לפי הנמוך",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "phone-1380",
+      "claim": "1,380 ₪ לשנת המס 2024",
+      "source_url": "https://erlichj.co.il/חדשות-ועדכונים/הנדון-נתונים-לתיאום-הוצאות-מסוימות-לש/",
+      "quote": "החלק הלא מוכר השנתי הינו בגובה של 1,380 ש\"ח, או בגובה מחצית ההוצאות לפי הנמוך מביניהם",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "2024",
+      "values": [
+        "1380"
+      ],
+      "appears_in": [
+        "references/expenses.md",
+        "references/figures.md"
+      ]
+    },
+    {
+      "claim_id": "gift-240",
+      "claim": "מתנות עד 240 ₪",
+      "source_url": "https://erlichj.co.il/חדשות-ועדכונים/הנדון-נתונים-לתיאום-הוצאות-מסוימות-לש/",
+      "quote": "עד ל- 240 ש\"ח לשנה למקבל",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "2024",
+      "values": [
+        "240"
+      ],
+      "appears_in": [
+        "references/figures.md"
+      ]
+    },
+    {
+      "claim_id": "vehicle-45",
+      "claim": "רכב: הגבוה מבין, 45%",
+      "source_url": "https://www.nevo.co.il/law_html/law01/255_439.htm",
+      "quote": "סכום בגובה 45% מהוצאות החזקת הרכב, לפי הגבוה",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "45%",
+        "45"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/expenses.md"
+      ]
+    },
+    {
+      "claim_id": "vehicle-l3",
+      "claim": "אופנוע L3, 25%",
+      "source_url": "https://www.nevo.co.il/law_html/law01/255_439.htm",
+      "quote": "סכום בגובה 25% מהוצאות החזקת הרכב, לפי הגבוה",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "25"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/calendar.md",
+        "references/expenses.md",
+        "references/opening.md"
+      ]
+    },
+    {
+      "claim_id": "depreciation-computer",
+      "claim": "פחת מחשב 33%",
+      "source_url": "https://www.zscpa.co.il/הוצאות-מוכרות/",
+      "quote": "ההוצאה בכל שנה תהיה 33% ממחיר המחשב המקורי",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "33%",
+        "33"
+      ],
+      "appears_in": [
+        "references/expenses.md"
+      ]
+    },
+    {
+      "claim_id": "depreciation-furniture",
+      "claim": "פחת ריהוט 6%",
+      "source_url": "https://www.zscpa.co.il/הוצאות-מוכרות/",
+      "quote": "הוצאת פחת על ריהוט משרדי נקבעה בתקנות לפי 6%",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "6%",
+        "6"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/expenses.md",
+        "references/income.md",
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "pension-mandatory",
+      "claim": "פנסיית חובה 14,044 ₪",
+      "source_url": "https://pensuni.com/?p=2233",
+      "quote": "צריך להפקיד מידי חודש 1,170 ש\"ח או בחישוב שנתי 14,044 ש\"ח",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "2026",
+      "values": [
+        "14044"
+      ],
+      "appears_in": [
+        "references/calendar.md",
+        "references/figures.md"
+      ]
+    },
+    {
+      "claim_id": "pension-rates",
+      "claim": "4.45% ו-12.55%",
+      "source_url": "https://pensuni.com/?p=2233",
+      "quote": "שיעור ההפקדה לפנסיית חובה לעצמאים עומד על 4.45% עד חצי מהשכר הממוצע במשק, ועל 12.55%",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "2026",
+      "values": [
+        "4.45%",
+        "12.55%"
+      ],
+      "appears_in": [
+        "references/calendar.md"
+      ]
+    },
+    {
+      "claim_id": "pension-age",
+      "claim": "גיל 21, מתחת ל-60, ששה חודשים",
+      "source_url": "https://pensuni.com/?p=2233",
+      "quote": "חלפו כבר ששה חודשים מהמועד שבו העצמאי נרשם לראשונה כעוסק",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "21",
+        "60"
+      ],
+      "appears_in": [
+        "references/calendar.md",
+        "references/opening.md"
+      ]
+    },
+    {
+      "claim_id": "pension-deduction",
+      "claim": "ניכוי עד 11% ו-25,608 ₪",
+      "source_url": "https://www.kolzchut.org.il/he/הטבות_במס_הכנסה_בגין_הפקדות_עצמאיות_לביטוח_פנסיוני",
+      "quote": "הטבה זו מוגבלת להפקדות של עד 11% מההכנסה אך לא יותר מ-25,608 ₪ בשנה, נכון לשנת 2026",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "2026",
+      "values": [
+        "25608",
+        "11%"
+      ],
+      "appears_in": [
+        "references/calendar.md",
+        "references/figures.md"
+      ]
+    },
+    {
+      "claim_id": "pension-credit",
+      "claim": "זיכוי 35%, 11,640 ₪, 16,440 ₪",
+      "source_url": "https://www.kolzchut.org.il/he/הטבות_במס_הכנסה_בגין_הפקדות_עצמאיות_לביטוח_פנסיוני",
+      "quote": "בשיעור של 35% מסכום ההפקדה העצמאית ועד מקסימום הפקדות של 11,640 ₪ לשנה לעובד שהוא \"עמית מוטב\" או 16,440 ₪",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "2026",
+      "values": [
+        "35%",
+        "11640",
+        "16440"
+      ],
+      "appears_in": [
+        "references/calendar.md",
+        "references/figures.md"
+      ]
+    },
+    {
+      "claim_id": "hishtalmut",
+      "claim": "קרן השתלמות 293,397 ₪, 4.5%",
+      "source_url": "https://www.kolzchut.org.il/he/קרן_השתלמות",
+      "quote": "סכום ההפקדות לא עולה על 4.5% מהכנסתו החייבת באותה שנה",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "2026",
+      "values": [
+        "4.5%",
+        "293397"
+      ],
+      "appears_in": [
+        "references/calendar.md",
+        "references/figures.md"
+      ]
+    },
+    {
+      "claim_id": "hishtalmut-gains",
+      "claim": "פטור על רווחים עד 20,566 ₪",
+      "source_url": "https://www.kolzchut.org.il/he/קרן_השתלמות",
+      "quote": "20,566 ₪ (נכון ל-2026)",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "2026",
+      "values": [
+        "20566"
+      ],
+      "appears_in": [
+        "references/calendar.md",
+        "references/figures.md"
+      ]
+    },
+    {
+      "claim_id": "centers",
+      "claim": "מוקדים *4954 ו-*6050",
+      "source_url": "https://www.kolzchut.org.il/he/דמי_ביטוח_לאומי_לעצמאי",
+      "quote": "*6050",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "כללי",
+      "values": [
+        "6050"
+      ],
+      "appears_in": [
+        "references/opening.md",
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "center-tax",
+      "claim": "מוקד רשות המסים",
+      "source_url": "https://www.gov.il/he/service/request-open-exempt-dealer-via-internet",
+      "quote": "*4954",
+      "verified_at": "2026-11-01",
+      "verified_via": "wayback 2025-11-13",
+      "effective_year": "כללי",
+      "values": [
+        "4954"
+      ],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "zero-report",
+      "claim": "עוסק מורשה מגיש דוח גם בלי פעילות (דוח אפס): נורש מ-israeli-freelancer-ops, 19.10.2026",
+      "source_url": "https://www.gov.il/he/pages/vat-to-the-new-dealer",
+      "quote": "עוסקים אשר ידווחו וישלמו באופן מקוון יהיו רשאים לשלם את המס הנובע מהדו\"ח עד ה – 19 לחודש",
+      "verified_at": "2026-11-01",
+      "verified_via": "inherited or skill rule",
+      "effective_year": "כללי",
+      "values": [],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "verification-log",
+      "claim": "תאריכי האימות והעותקים ב-Wayback, וקוד 403 של gov.il: יומן הבדיקה של הסקיל",
+      "source_url": "https://web.archive.org",
+      "quote": "HTTP 403 from gov.il to automated clients",
+      "verified_at": "2026-11-01",
+      "verified_via": "inherited or skill rule",
+      "effective_year": "כללי",
+      "values": [
+        "1.11.2026",
+        "13.11.2025",
+        "14.1.2026",
+        "17.5.2026",
+        "19.4.2025",
+        "8.2.2025",
+        "403"
+      ],
+      "appears_in": [
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "bands-context",
+      "claim": "פסי 70%, 85%, 95% הם הקשר בלבד, כמו ב-israeli-freelancer-ops",
+      "source_url": "https://github.com/skills-il/tax-and-finance",
+      "quote": "Alert levels: 70% ... 85% ... 95%",
+      "verified_at": "2026-11-01",
+      "verified_via": "inherited or skill rule",
+      "effective_year": "כללי",
+      "values": [
+        "85%",
+        "95%"
+      ],
+      "appears_in": [
+        "references/income.md",
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "reminder-rules",
+      "claim": "תזכורת ב-15.12, בדיקת מועדים בתוך 14 ימים, התראה 3 ימים לפני: כללי מוצר של הסקיל",
+      "source_url": "https://github.com/skills-il/tax-and-finance",
+      "quote": "alert by December 15 with the year's business income to date",
+      "verified_at": "2026-11-01",
+      "verified_via": "inherited or skill rule",
+      "effective_year": "כללי",
+      "values": [
+        "15.12",
+        "14",
+        "3"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/calendar.md",
+        "references/expenses.md",
+        "references/income.md",
+        "references/opening.md",
+        "references/sources.md"
+      ]
+    },
+    {
+      "claim_id": "dec-31",
+      "claim": "31.12 הוא סוף שנת המס להפקדות: מועד של המקור",
+      "source_url": "https://github.com/skills-il/tax-and-finance",
+      "quote": "Deposits made during the tax year earn the benefit for that year",
+      "verified_at": "2026-11-01",
+      "verified_via": "inherited or skill rule",
+      "effective_year": "כללי",
+      "values": [
+        "31.12",
+        "1.1"
+      ],
+      "appears_in": [
+        "references/calendar.md"
+      ]
+    },
+    {
+      "claim_id": "illustrative",
+      "claim": "מספרים לדוגמה בפקודות ובהסברים, בלי טענה על הדין",
+      "source_url": "https://github.com/skills-il/tax-and-finance",
+      "quote": "Illustrative inputs invented for the examples",
+      "verified_at": "2026-11-01",
+      "verified_via": "inherited or skill rule",
+      "effective_year": "כללי",
+      "values": [
+        "95000",
+        "14000",
+        "110000",
+        "90000",
+        "15000",
+        "600",
+        "150",
+        "0.15"
+      ],
+      "appears_in": [
+        "SKILL.md",
+        "references/expenses.md",
+        "references/income.md"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "title": "בקשה לפתיחת תיק עוסק פטור באינטרנט",
+      "url": "https://www.gov.il/he/service/request-open-exempt-dealer-via-internet",
+      "checked": "Wayback, עותק 13.11.2025"
+    },
+    {
+      "title": "בקשה לפתיחת תיק עוסק מורשה (טופס 821)",
+      "url": "https://www.gov.il/he/service/vat-821",
+      "checked": "Wayback, עותק 14.1.2026"
+    },
+    {
+      "title": "דו\"ח פרטים אישיים והצהרה על מקורות הכנסה (טופס 5329)",
+      "url": "https://www.gov.il/he/service/itc5329",
+      "checked": "Wayback, עותק 8.2.2025"
+    },
+    {
+      "title": "מדריך מע\"מ לעוסק החדש",
+      "url": "https://www.gov.il/he/pages/vat-to-the-new-dealer",
+      "checked": "Wayback, עותק 13.11.2025"
+    },
+    {
+      "title": "פתיחת תיק עצמאי בביטוח לאומי",
+      "url": "https://www.btl.gov.il/Insurance/National%20Insurance/type_list/Self_Employed/Pages/howtoregister.aspx",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "כל-זכות: עוסק פטור",
+      "url": "https://www.kolzchut.org.il/he/עוסק_פטור",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "כל-זכות: פתיחת תיק במע\"מ",
+      "url": "https://www.kolzchut.org.il/he/פתיחת_תיק_עוסק_במס_ערך_מוסף_(מע\"מ)",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "תקנות מס ערך מוסף (רישום), תקנה 13",
+      "url": "https://www.nevo.co.il/law_html/law01/271_004.htm",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "בקשה לשינוי סוג תיק ל\"בעל עסק זעיר\"",
+      "url": "https://www.gov.il/he/service/request-transfer-to-micro-business-owner",
+      "checked": "Wayback, עותק 14.1.2026"
+    },
+    {
+      "title": "דיווח שנתי מקוצר ותשלום לעסק זעיר",
+      "url": "https://www.gov.il/he/service/report-and-payment-for-micro-business-owner",
+      "checked": "Wayback, עותק 19.4.2025"
+    },
+    {
+      "title": "כל-זכות: עסק זעיר",
+      "url": "https://www.kolzchut.org.il/he/עסק_זעיר",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "חוזר 1502: מקדמות ושיעורי דמי ביטוח לעצמאים 2026",
+      "url": "https://www.btl.gov.il/Insurance/HozrimBituah/Hozrim/_%d7%9e%d7%a7%d7%93%d7%9e%d7%95%d7%aa_%d7%95%d7%93%d7%9e%d7%99_%d7%91%d7%99%d7%98%d7%95%d7%97_%d7%9c%d7%a2%d7%a6%d7%9e%d7%90%d7%99%d7%9d_2026__.pdf",
+      "checked": "PDF נקרא ישירות, 1.11.2026"
+    },
+    {
+      "title": "שיעורי דמי הביטוח לעובד עצמאי",
+      "url": "https://www.btl.gov.il/Insurance/National%20Insurance/type_list/Self_Employed/Pages/rates.aspx",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "כל-זכות: דמי ביטוח לאומי לעצמאי",
+      "url": "https://www.kolzchut.org.il/he/דמי_ביטוח_לאומי_לעצמאי",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "כל-זכות: עצמאי עם מקורות הכנסה נוספים",
+      "url": "https://www.kolzchut.org.il/he/דמי_ביטוח_לאומי_לעצמאי_עם_מקורות_הכנסה_נוספים",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "כל-זכות: זכאות לקצבאות כעצמאי",
+      "url": "https://www.kolzchut.org.il/he/זכאות_לקיצבאות_הביטוח_הלאומי_כעצמאי",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "כל-זכות: חשבונית מס, חשבונית עסקה וקבלה",
+      "url": "https://www.kolzchut.org.il/he/הוצאת_חשבונית_מס,_חשבונית_עסקה_וקבלה",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "כל-זכות: ניכוי מס במקור על ידי לקוח",
+      "url": "https://www.kolzchut.org.il/he/ניכוי_מס_הכנסה_במקור_על-ידי_לקוח_של_עסק_עצמאי",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "כל-זכות: ניהול ספרי החשבונות",
+      "url": "https://www.kolzchut.org.il/he/ניהול_ספרי_החשבונות_של_העסק",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "הוראות ניהול פנקסי חשבונות",
+      "url": "https://www.nevo.co.il/law_html/law01/255_179.htm",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "חוק מס ערך מוסף",
+      "url": "https://he.wikisource.org/wiki/חוק_מס_ערך_מוסף",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "כל-זכות: הוצאה מוכרת",
+      "url": "https://www.kolzchut.org.il/he/הוצאה_מוכרת_לצורך_חישוב_מס_הכנסה_(הוצאה_מותרת_בניכוי)",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "תקנות ניכוי הוצאות מסוימות",
+      "url": "https://www.nevo.co.il/law_html/law01/255_418.htm",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "תקנות ניכוי הוצאות רכב",
+      "url": "https://www.nevo.co.il/law_html/law01/255_439.htm",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "נתונים לתיאום הוצאות לשנת המס 2024 (משרד רו\"ח, לא רשמי)",
+      "url": "https://erlichj.co.il/חדשות-ועדכונים/הנדון-נתונים-לתיאום-הוצאות-מסוימות-לש/",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "שיעורי פחת (משרד רו\"ח, לא רשמי)",
+      "url": "https://www.zscpa.co.il/הוצאות-מוכרות/",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "דיווח ותשלום, דוח מס שנתי 2025",
+      "url": "https://www.gov.il/he/service/reporting-and-payment-2025-annual-tax-report-for-individuals",
+      "checked": "Wayback, עותק 17.5.2026"
+    },
+    {
+      "title": "כל-זכות: מקדמות למס הכנסה",
+      "url": "https://www.kolzchut.org.il/he/תשלום_מקדמות_של_עסק_עצמאי_למס_הכנסה",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "חוק הפרשנות",
+      "url": "https://he.wikisource.org/wiki/חוק_הפרשנות",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "כל-זכות: הטבות מס בהפקדות עצמאיות",
+      "url": "https://www.kolzchut.org.il/he/הטבות_במס_הכנסה_בגין_הפקדות_עצמאיות_לביטוח_פנסיוני",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "כל-זכות: קרן השתלמות",
+      "url": "https://www.kolzchut.org.il/he/קרן_השתלמות",
+      "checked": "נפתח ישירות, 1.11.2026"
+    },
+    {
+      "title": "פנסיית חובה לעצמאים (אתר פרטי, לא רשמי)",
+      "url": "https://pensuni.com/?p=2233",
+      "checked": "נפתח ישירות, 1.11.2026"
+    }
+  ]
+}
