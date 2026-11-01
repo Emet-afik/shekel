@@ -10,18 +10,19 @@ import concurrent.futures
 import json
 import os
 import re
+import shutil
 import subprocess
 import tempfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 CLOSING = "זו המחשה שעוזרת לכם להתארגן, לא ייעוץ מס."
-TOOLS = "Read Glob Grep Write Edit Bash(python3:*) Bash(cp:*) Bash(ls:*) Bash(cat:*)"
+TOOLS = "Read Glob Grep Write Edit Bash(python3:*) Bash(cp:*) Bash(ls:*) Bash(cat:*) Bash(pwd) Bash(mkdir:*)"
 
 
 def parse(path: Path) -> dict:
     text = path.read_text(encoding="utf-8")
-    prompt = text.split("## קלט", 1)[1].split("## מצופה", 1)[0].strip().replace("{ROOT}", str(ROOT))
+    prompt = text.split("## קלט", 1)[1].split("## מצופה", 1)[0].strip()
     must = re.findall(r"^must: (.+)$", text, re.M)
     must_not = re.findall(r"^must_not: (.+)$", text, re.M)
     files = re.findall(r"^must_file: (.+)$", text, re.M)
@@ -32,12 +33,14 @@ def run(case: dict, out: Path) -> dict:
     with tempfile.TemporaryDirectory(prefix="shekel-") as tmp:
         skills = Path(tmp) / ".claude" / "skills"
         skills.mkdir(parents=True)
-        (skills / "shekel").symlink_to(ROOT)
+        # העתקה ולא קישור, כמו התקנה אמיתית
+        skill = skills / "shekel"
+        shutil.copytree(ROOT, skill, ignore=shutil.ignore_patterns(".git", "_sources", ".results", "__pycache__"))
         # בלי משתני הסשן שמריץ את הבדיקה, כדי שהתיקייה הזמנית תהיה באמת תיקיית העבודה
         env = {k: v for k, v in os.environ.items() if not k.startswith(("CLAUDE", "VSCODE")) and k not in ("PWD", "OLDPWD")}
         env.update({"PWD": tmp, "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1"})
         done = subprocess.run(
-            ["claude", "-p", case["prompt"], "--allowedTools", *TOOLS.split(" "), "--add-dir", str(ROOT)],
+            ["claude", "-p", case["prompt"].replace("{ROOT}", str(skill)), "--allowedTools", *TOOLS.split(" ")],
             cwd=tmp, env=env, stdin=subprocess.DEVNULL, capture_output=True, text=True, timeout=540,
         )
         missing = [name for name in case["files"] if not (Path(tmp) / name).is_file()]
