@@ -3,3 +3,7 @@ __pycache__/
 .DS_Store
 _sources/
 tests/.results/
+income_log.csv
+expense_log.csv
+shekel-profile.json
+*.ics

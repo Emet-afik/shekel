@@ -33,18 +33,22 @@ def run(case: dict, out: Path) -> dict:
         skills = Path(tmp) / ".claude" / "skills"
         skills.mkdir(parents=True)
         (skills / "shekel").symlink_to(ROOT)
-        env = {**os.environ, "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1"}
+        # בלי משתני הסשן שמריץ את הבדיקה, כדי שהתיקייה הזמנית תהיה באמת תיקיית העבודה
+        env = {k: v for k, v in os.environ.items() if not k.startswith(("CLAUDE", "VSCODE")) and k not in ("PWD", "OLDPWD")}
+        env.update({"PWD": tmp, "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": "1"})
         done = subprocess.run(
             ["claude", "-p", case["prompt"], "--allowedTools", *TOOLS.split(" "), "--add-dir", str(ROOT)],
-            cwd=tmp, env=env, capture_output=True, text=True, timeout=540,
+            cwd=tmp, env=env, stdin=subprocess.DEVNULL, capture_output=True, text=True, timeout=540,
         )
         missing = [name for name in case["files"] if not (Path(tmp) / name).is_file()]
+        leaked = [name for name in ("income_log.csv", "expense_log.csv") if (ROOT / name).exists()]
         written = {name: (Path(tmp) / name).read_text(encoding="utf-8") for name in case["files"] if name not in missing}
     answer = done.stdout.strip()
     (out / f"{case['name']}.txt").write_text(answer + ("\n\nSTDERR:\n" + done.stderr if done.stderr else ""), encoding="utf-8")
     failures = [f"חסר: {p}" for p in case["must"] if not re.search(p, answer)]
     failures += [f"אסור: {p}" for p in case["must_not"] if re.search(p, answer)]
     failures += [f"לא נוצר קובץ: {name}" for name in missing]
+    failures += [f"נכתב לתיקיית הסקיל: {name}" for name in leaked]
     for name, content in written.items():
         (out / f"{case['name']}.{name}").write_text(content, encoding="utf-8")
     if CLOSING not in answer:
