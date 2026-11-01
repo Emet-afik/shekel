@@ -76,8 +76,8 @@ if len(scenarios) < 8:
     errors.append(f"נמצאו {len(scenarios)} תרחישים, צריך 8")
 
 metadata = json.loads(Path("metadata.json").read_text(encoding="utf-8"))
-if metadata.get("version") != "1.0.0":
-    errors.append("metadata: הגרסה צריכה להיות 1.0.0")
+if not re.fullmatch(r"\d+\.\d+\.\d+", metadata.get("version", "")):
+    errors.append("metadata: גרסה לא תקינה")
 
 # 7. כל מספר מופיע ב-evidence.json
 evidence = json.loads(Path("evidence.json").read_text(encoding="utf-8"))

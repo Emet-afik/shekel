@@ -1271,6 +1271,21 @@
       ]
     },
     {
+      "claim_id": "pension-credit-cap",
+      "claim": "הזיכוי מוגבל ל-5.5% מההכנסה ולתקרות",
+      "source_url": "https://www.kolzchut.org.il/he/הטבות_במס_הכנסה_בגין_הפקדות_עצמאיות_לביטוח_פנסיוני",
+      "quote": "והזיכוי לא יעלה על 5.5% ולא יותר מהתקרות לעיל",
+      "verified_at": "2026-11-01",
+      "verified_via": "direct fetch",
+      "effective_year": "2026",
+      "values": [
+        "5.5%"
+      ],
+      "appears_in": [
+        "references/calendar.md"
+      ]
+    },
+    {
       "claim_id": "hishtalmut",
       "claim": "קרן השתלמות 293,397 ₪, 4.5%",
       "source_url": "https://www.kolzchut.org.il/he/קרן_השתלמות",
