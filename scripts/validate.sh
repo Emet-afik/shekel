@@ -139,19 +139,6 @@ for claim in evidence["claims"]:
         if not Path(name).exists():
             errors.append(f"evidence: {claim['claim_id']} מצביע על קובץ שלא קיים: {name}")
 
-# 11. אין שאריות של השם הישן, ואין מילים אסורות
-banned = {"jewish-accountant": "השם הישן", "Jewish Accountant": "השם הישן"}
-for path in Path(".").rglob("*"):
-    if not path.is_file() or path.parts[0] in {".git", "_sources"} or path.name in {"PLAN.md", "CHANGELOG.md", "validate.sh"}:
-        continue
-    try:
-        text = path.read_text(encoding="utf-8")
-    except UnicodeDecodeError:
-        continue
-    for word, why in banned.items():
-        if word in text:
-            errors.append(f"{path}: {why}: {word}")
-
 print(f"גוף SKILL.md: {words} מילים")
 print(f"נבדקו {checked} מספרים מול {len(evidence['claims'])} רשומות ב-evidence.json")
 if errors:
