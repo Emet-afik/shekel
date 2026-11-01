@@ -1,0 +1,17 @@
+{
+  "author": "Emet-afik",
+  "version": "1.0.0",
+  "category": "tax-and-finance",
+  "tags": {
+    "he": ["עצמאי", "עוסק-פטור", "עוסק-מורשה", "עסק-זעיר", "מיסים", "ביטוח-לאומי", "קבלות", "ישראל"],
+    "en": ["freelancer", "osek-patur", "osek-murshe", "esek-zair", "tax", "bituach-leumi", "receipts", "israel"]
+  },
+  "display_name": {
+    "he": "שקל: רואה חשבון אישי",
+    "en": "Shekel: Hebrew Personal Accountant"
+  },
+  "display_description": {
+    "he": "אינו ייעוץ מס. רואה חשבון אישי בעברית לעצמאים קטנים בישראל: פתיחת עוסק, איזה מסמך להוציא על כל תשלום, מעקב ותחזית מול תקרת עוסק פטור, סיווג הוצאות מצילום קבלה, השוואה לעסק זעיר, ולוח מועדים בתאריכים מדויקים.",
+    "en": "Not tax advice. A Hebrew personal accountant for small Israeli self-employed people: opening a business, which document to issue for each payment, tracking and projecting the osek patur ceiling, classifying expenses from receipt photos, comparing with esek zair, and a deadline calendar with exact dates."
+  }
+}
